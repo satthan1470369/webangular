@@ -1,0 +1,25 @@
+
+.facebook-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  background-color: #1877F2;
+  border-radius: 50%;
+  margin-top: 5px;
+}
+
+.facebook-container a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.facebook-container svg {
+  width: 30px;
+  height: 30px;
+}
+.nav-link {
+  color: black !important;
+}

@@ -1,0 +1,31 @@
+.cart-container {
+    padding: 20px;
+  
+    h1 {
+      margin-bottom: 20px;
+    }
+  
+    .cart-img {
+      width: 50px;
+      height: 50px;
+      object-fit: cover;
+      margin-right: 10px;
+    }
+  
+    table {
+      width: 100%;
+      margin-bottom: 20px;
+      th, td {
+        vertical-align: middle;
+      }
+    }
+  
+    .cart-summary {
+      text-align: right;
+      h3 {
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+    }
+  }
+  
