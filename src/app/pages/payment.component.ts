@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
     <div class="payment-container">
       <h1>Thanh toán đơn hàng</h1>
       <p>Quét mã QR bằng ứng dụng ngân hàng để thanh toán</p>
-      
+      <h1>Test</h1>
       <div class="qr-wrapper" *ngIf="qrImageUrl">
         <img [src]="qrImageUrl" alt="QR code thanh toán" />
       </div>
